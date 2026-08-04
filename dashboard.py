@@ -366,7 +366,5 @@ Lead Customer Support | Telecom Operations | AI & Data Analytics
 
 🔗 [GitHub](https://github.com/srkumar)
 
-📧 Available for Technical Discussions
-
 Version 2.0
 """)
