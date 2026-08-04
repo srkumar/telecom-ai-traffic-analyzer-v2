@@ -354,3 +354,19 @@ else:
     st.info(
         "📂 Please upload a telecom log file to begin analysis."
     )
+st.divider()
+
+st.markdown("""
+---
+### 👨‍💻 Developed by
+
+**Shashi Ranjan Kumar**
+
+Lead Customer Support | Telecom Operations | AI & Data Analytics
+
+🔗 [GitHub](https://github.com/srkumar)
+
+📧 Available for Technical Discussions
+
+Version 2.0
+""")
