@@ -356,6 +356,16 @@ else:
     )
 st.divider()
 
+with open("data/logs.csv", "rb") as file:
+
+    st.download_button(
+        label="⬇ Download Sample CSV",
+        data=file,
+        file_name="sample_telecom_logs.csv",
+        mime="text/csv"
+    )
+
+
 st.markdown("""
 ---
 ### 👨‍💻 Developed by
